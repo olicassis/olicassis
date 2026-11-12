@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+.DS_Store
+
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+
+# Claude Code: personal settings and harness state
+.claude/settings.local.json
+.claude/state/

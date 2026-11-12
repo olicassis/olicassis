@@ -1,0 +1,31 @@
+{
+  "name": "olicassis",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Elias's GitHub profile README (olicassis) and the tools that check it. GitHub shows only README.md.",
+  "packageManager": "pnpm@10.28.0",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json",
+    "lint:md": "markdownlint-cli2",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "harness:check": "node tooling/harness/bin/check-context-budget.ts",
+    "deps:check": "node tooling/harness/bin/check-pinned-versions.ts",
+    "prepare": "husky && git config commit.template .gitmessage || true"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "21.2.4",
+    "@commitlint/config-conventional": "21.2.4",
+    "@types/node": "26.6.6",
+    "husky": "9.1.7",
+    "markdownlint-cli2": "0.24.1",
+    "prettier": "3.9.10",
+    "typescript": "6.0.3",
+    "vitest": "5.1.0"
+  }
+}

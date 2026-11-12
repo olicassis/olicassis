@@ -1,0 +1,11 @@
+{
+  // README.md is the profile page. GitHub renders it, so it uses safe inline HTML.
+  "config": {
+    "default": true,
+    "MD013": false, // long lines: badges and image tags
+    "MD033": false, // inline HTML: <picture>, <img align>
+    "MD041": false, // the page opens with the banner, not a heading
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**", ".claude/**"],
+}
