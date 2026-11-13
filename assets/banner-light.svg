@@ -1,20 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="olicassis">
-<rect width="1200" height="300" fill="#f6f9e4"/>
-<rect x="1" y="1" width="1198" height="298" fill="none" stroke="#141a0c" stroke-width="2"/>
-<g>
-<clipPath id="c"><rect x="2" y="2" width="1196" height="296"/></clipPath>
-<g clip-path="url(#c)">
-<circle cx="980" cy="190" r="160" fill="#577229"/>
-<circle cx="880" cy="30" r="2.5" fill="#141a0c"/><circle cx="880" cy="50" r="2.5" fill="#141a0c"/><circle cx="880" cy="70" r="2.5" fill="#141a0c"/><circle cx="880" cy="90" r="2.5" fill="#141a0c"/><circle cx="880" cy="110" r="2.5" fill="#141a0c"/><circle cx="880" cy="130" r="2.5" fill="#141a0c"/><circle cx="880" cy="150" r="2.5" fill="#141a0c"/><circle cx="880" cy="170" r="2.5" fill="#141a0c"/><circle cx="900" cy="30" r="2.5" fill="#141a0c"/><circle cx="900" cy="50" r="2.5" fill="#141a0c"/><circle cx="900" cy="70" r="2.5" fill="#141a0c"/><circle cx="900" cy="90" r="2.5" fill="#141a0c"/><circle cx="900" cy="110" r="2.5" fill="#141a0c"/><circle cx="900" cy="130" r="2.5" fill="#141a0c"/><circle cx="900" cy="150" r="2.5" fill="#141a0c"/><circle cx="900" cy="170" r="2.5" fill="#141a0c"/><circle cx="920" cy="30" r="2.5" fill="#141a0c"/><circle cx="920" cy="50" r="2.5" fill="#141a0c"/><circle cx="920" cy="70" r="2.5" fill="#141a0c"/><circle cx="920" cy="90" r="2.5" fill="#141a0c"/><circle cx="920" cy="110" r="2.5" fill="#141a0c"/><circle cx="920" cy="130" r="2.5" fill="#141a0c"/><circle cx="920" cy="150" r="2.5" fill="#141a0c"/><circle cx="920" cy="170" r="2.5" fill="#141a0c"/><circle cx="940" cy="30" r="2.5" fill="#141a0c"/><circle cx="940" cy="50" r="2.5" fill="#141a0c"/><circle cx="940" cy="70" r="2.5" fill="#141a0c"/><circle cx="940" cy="90" r="2.5" fill="#141a0c"/><circle cx="940" cy="110" r="2.5" fill="#141a0c"/><circle cx="940" cy="130" r="2.5" fill="#141a0c"/><circle cx="940" cy="150" r="2.5" fill="#141a0c"/><circle cx="940" cy="170" r="2.5" fill="#141a0c"/><circle cx="960" cy="30" r="2.5" fill="#141a0c"/><circle cx="960" cy="50" r="2.5" fill="#141a0c"/><circle cx="960" cy="70" r="2.5" fill="#141a0c"/><circle cx="960" cy="90" r="2.5" fill="#141a0c"/><circle cx="960" cy="110" r="2.5" fill="#141a0c"/><circle cx="960" cy="130" r="2.5" fill="#141a0c"/><circle cx="960" cy="150" r="2.5" fill="#141a0c"/><circle cx="960" cy="170" r="2.5" fill="#141a0c"/><circle cx="980" cy="30" r="2.5" fill="#141a0c"/><circle cx="980" cy="50" r="2.5" fill="#141a0c"/><circle cx="980" cy="70" r="2.5" fill="#141a0c"/><circle cx="980" cy="90" r="2.5" fill="#141a0c"/><circle cx="980" cy="110" r="2.5" fill="#141a0c"/><circle cx="980" cy="130" r="2.5" fill="#141a0c"/><circle cx="980" cy="150" r="2.5" fill="#141a0c"/><circle cx="980" cy="170" r="2.5" fill="#141a0c"/><circle cx="1000" cy="30" r="2.5" fill="#141a0c"/><circle cx="1000" cy="50" r="2.5" fill="#141a0c"/><circle cx="1000" cy="70" r="2.5" fill="#141a0c"/><circle cx="1000" cy="90" r="2.5" fill="#141a0c"/><circle cx="1000" cy="110" r="2.5" fill="#141a0c"/><circle cx="1000" cy="130" r="2.5" fill="#141a0c"/><circle cx="1000" cy="150" r="2.5" fill="#141a0c"/><circle cx="1000" cy="170" r="2.5" fill="#141a0c"/>
-<rect x="675" y="-15" width="180" height="230" fill="#141a0c"/>
-<rect x="670" y="-20" width="180" height="230" fill="#78c30e" stroke="#141a0c" stroke-width="2"/>
-<rect x="885" y="225" width="130" height="70" fill="#141a0c"/>
-<rect x="880" y="220" width="130" height="70" fill="#b77d4f" stroke="#141a0c" stroke-width="2"/>
-<rect x="1045" y="35" width="56" height="56" fill="#141a0c"/>
-<rect x="1040" y="30" width="56" height="56" fill="#ffd196" stroke="#141a0c" stroke-width="2"/>
-<rect x="1100" y="140" width="110" height="180" fill="#141a0c"/>
-</g></g>
-<text x="56" y="92" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#4f6b1c">// hello, world</text>
-<text x="52" y="190" font-family="'Dela Gothic One', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="88" fill="#141a0c" letter-spacing="-1">olicassis</text>
-<text x="56" y="240" font-family="'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#465230">building things · logging what I learn</text>
+<defs>
+<clipPath id="card"><rect width="1200" height="300" rx="28"/></clipPath>
+<radialGradient id="la"><stop offset="0" stop-color="#a3245f" stop-opacity="0.32"/><stop offset="1" stop-color="#a3245f" stop-opacity="0"/></radialGradient>
+<radialGradient id="lb"><stop offset="0" stop-color="#82c913" stop-opacity="0.32"/><stop offset="1" stop-color="#82c913" stop-opacity="0"/></radialGradient>
+<radialGradient id="lc"><stop offset="0" stop-color="#4b1650" stop-opacity="0.28"/><stop offset="1" stop-color="#4b1650" stop-opacity="0"/></radialGradient>
+<linearGradient id="word" x1="0" x2="1" y1="0" y2="0"><stop offset=".05" stop-color="#4b1650"/><stop offset=".55" stop-color="#a3245f"/><stop offset="1" stop-color="#9b4a35"/></linearGradient>
+<radialGradient id="berry" cx="35%" cy="30%" r="70%"><stop offset="0" stop-color="#e06aa3"/><stop offset=".5" stop-color="#4b1650"/><stop offset="1" stop-color="#1e0d24"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity=".6"/><stop offset="1" stop-color="#ffffff" stop-opacity=".35"/></linearGradient>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="300" fill="#f6f1f7"/>
+<circle cx="1080" cy="-20" r="330" fill="url(#la)"/>
+<circle cx="80" cy="330" r="300" fill="url(#lb)"/>
+<circle cx="760" cy="360" r="320" fill="url(#lc)"/>
+<rect x="40" y="40" width="1120" height="220" rx="22" fill="url(#glass)" stroke="#ffffffe6"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="28" fill="none" stroke="#1e0d241a"/>
+
+<text x="84" y="101" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#a3245f">// hello, world</text>
+<text x="80" y="188" font-family="'Bricolage Grotesque', 'Avenir Next', 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="92" letter-spacing="-3" fill="url(#word)">olicassis</text>
+<text x="84" y="226" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5c4a64">building things · logging what I learn</text>
+<g transform="translate(930 70)">
+<path d="M80 6 C 80 34, 64 46, 58 60" stroke="#3f7a00" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M80 12 C 102 2, 126 12, 132 30 C 110 38, 92 30, 80 12 Z" fill="#82c913"/>
+<circle cx="50" cy="92" r="34" fill="url(#berry)"/><circle cx="39.1" cy="80.4" r="7.5" fill="#ffffff" opacity=".65"/><circle cx="112" cy="86" r="34" fill="url(#berry)"/><circle cx="101.1" cy="74.4" r="7.5" fill="#ffffff" opacity=".65"/><circle cx="82" cy="142" r="34" fill="url(#berry)"/><circle cx="71.1" cy="130.4" r="7.5" fill="#ffffff" opacity=".65"/>
+</g>
 </svg>

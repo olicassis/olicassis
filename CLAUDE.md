@@ -4,7 +4,7 @@ Elias's GitHub profile page. GitHub shows `README.md` on <https://github.com/oli
 
 ## Rules that are never broken
 
-1. The README uses the olicassis design system: the banner SVGs, the manga portrait and the badge palette (`141a0c` ground, `78c30e` accent).
+1. The README uses the cassis design system: the banner SVGs, the manga portrait and the badge palette (`1e0d24` ground, `82c913` logos, `a3245f` link badges).
 2. The README works in GitHub's light and dark themes. Theme-specific images use `<picture>` with `prefers-color-scheme`.
 3. Only HTML that GitHub keeps: no `<style>`, no `<script>`, no `class` or `style` attributes.
 4. Never invent facts about the owner. A missing fact stays a `TODO` comment or a placeholder.

@@ -16,18 +16,18 @@
 
 ### `// stack`
 
-![TypeScript](https://img.shields.io/badge/typescript-141a0c?style=flat-square&logo=typescript&logoColor=78c30e)
-![Node.js](https://img.shields.io/badge/node.js-141a0c?style=flat-square&logo=nodedotjs&logoColor=78c30e)
-![NestJS](https://img.shields.io/badge/nestjs-141a0c?style=flat-square&logo=nestjs&logoColor=78c30e)
-![React](https://img.shields.io/badge/react-141a0c?style=flat-square&logo=react&logoColor=78c30e)
-![Next.js](https://img.shields.io/badge/next.js-141a0c?style=flat-square&logo=nextdotjs&logoColor=78c30e)
-![PostgreSQL](https://img.shields.io/badge/postgresql-141a0c?style=flat-square&logo=postgresql&logoColor=78c30e)
-![DynamoDB](https://img.shields.io/badge/dynamodb-141a0c?style=flat-square&logo=amazondynamodb&logoColor=78c30e)
-![AWS](https://img.shields.io/badge/aws-141a0c?style=flat-square&logo=amazonwebservices&logoColor=78c30e)
-![Docker](https://img.shields.io/badge/docker-141a0c?style=flat-square&logo=docker&logoColor=78c30e)
-![Python](https://img.shields.io/badge/python-141a0c?style=flat-square&logo=python&logoColor=78c30e)
-![PyTorch](https://img.shields.io/badge/pytorch-141a0c?style=flat-square&logo=pytorch&logoColor=78c30e)
-![Git](https://img.shields.io/badge/git-141a0c?style=flat-square&logo=git&logoColor=78c30e)
+![TypeScript](https://img.shields.io/badge/typescript-1e0d24?style=flat-square&logo=typescript&logoColor=82c913)
+![Node.js](https://img.shields.io/badge/node.js-1e0d24?style=flat-square&logo=nodedotjs&logoColor=82c913)
+![NestJS](https://img.shields.io/badge/nestjs-1e0d24?style=flat-square&logo=nestjs&logoColor=82c913)
+![React](https://img.shields.io/badge/react-1e0d24?style=flat-square&logo=react&logoColor=82c913)
+![Next.js](https://img.shields.io/badge/next.js-1e0d24?style=flat-square&logo=nextdotjs&logoColor=82c913)
+![PostgreSQL](https://img.shields.io/badge/postgresql-1e0d24?style=flat-square&logo=postgresql&logoColor=82c913)
+![DynamoDB](https://img.shields.io/badge/dynamodb-1e0d24?style=flat-square&logo=amazondynamodb&logoColor=82c913)
+![AWS](https://img.shields.io/badge/aws-1e0d24?style=flat-square&logo=amazonwebservices&logoColor=82c913)
+![Docker](https://img.shields.io/badge/docker-1e0d24?style=flat-square&logo=docker&logoColor=82c913)
+![Python](https://img.shields.io/badge/python-1e0d24?style=flat-square&logo=python&logoColor=82c913)
+![PyTorch](https://img.shields.io/badge/pytorch-1e0d24?style=flat-square&logo=pytorch&logoColor=82c913)
+![Git](https://img.shields.io/badge/git-1e0d24?style=flat-square&logo=git&logoColor=82c913)
 
 ### `// projects`
 
@@ -37,7 +37,7 @@
 
 ### `// links`
 
-[![Portfolio](https://img.shields.io/badge/portfolio-olicassis.github.io-78c30e?style=flat-square&labelColor=141a0c)](https://olicassis.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-78c30e?style=flat-square&labelColor=141a0c)](https://www.linkedin.com/in/olicassis/)
+[![Portfolio](https://img.shields.io/badge/portfolio-olicassis.github.io-a3245f?style=flat-square&labelColor=1e0d24)](https://olicassis.github.io)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-a3245f?style=flat-square&labelColor=1e0d24)](https://www.linkedin.com/in/olicassis/)
 
 <br clear="right">
