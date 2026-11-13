@@ -1,0 +1,13 @@
+
+
+# type(scope): emoji subject            (72 characters at most, imperative, no full stop)
+#
+# Types and emojis (the emoji goes right after the colon):
+#   feat ✨  fix 🐛  perf ⚡️  refactor ♻️  test ✅  docs 📝
+#   style 🎨  build 📦  ci 👷  chore 🔧  revert ⏪   breaking change: type! and 💥
+# Scopes: readme assets deps ci harness
+#
+# Body: why the change, not what (the diff shows what).
+# Footers: Refs: #12    BREAKING CHANGE: what breaks and how to migrate
+#
+# Example: docs(readme): 📝 add the current focus line
